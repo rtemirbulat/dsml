@@ -1,0 +1,25 @@
+Ritter Sport,Alpen Gold,Kinder,Picnic,Snickers,MilkyWay,KitKat
+Ritter Sport,Alpen Gold,Albeni,Snickers,Picnic,Cotton Candy,Twix
+Ritter Sport,Alpen Gold,Albeni,Snickers,Cotton Candy,MilkyWay,Twix
+Ritter Sport,Alpen Gold,Snickers,Picnic,Kinder,Albeni,MilkyWay,Twix
+Ritter Sport,Alpen Gold,Albeni,Picnic,Snickers,Kinder,KitKat
+Kinder,Albeni,Snickers,MilkyWay,KitKat
+Ritter Sport,Kinder,Albeni,Alpen Gold,Snickers,Cotton Candy,KitKat
+Ritter Sport,Alpen Gold,Albeni,Snickers,Kinder,MilkyWay,Twix
+Alpen Gold,Albeni,Snickers,Picnic,MilkyWay,KitKat
+Alpen Gold,Snickers,Picnic,Cotton Candy,MilkyWay,KitKat
+Alpen Gold,Picnic,Cotton Candy,MilkyWay,Twix
+Ritter Sport,Alpen Gold,Albeni,Snickers,Cotton Candy,Twix,KitKat
+Ritter Sport,Alpen Gold,Albeni,Snickers,MilkyWay,Twix
+Ritter Sport,Alpen Gold,Snickers,Albeni,Picnic,MilkyWay,KitKat
+Ritter Sport,Kinder,Albeni,Snickers,Picnic,Cotton Candy,KitKat
+Kinder,Albeni,Picnic,Cotton Candy,MilkyWay,Twix,KitKat
+Ritter Sport,Albeni,Snickers,Picnic,Cotton Candy,MilkyWay,Twix,KitKat
+Alpen Gold,Albeni,Picnic,Cotton Candy,MilkyWay
+Ritter Sport,Kinder,Albeni,Alpen Gold,MilkyWay,Twix,KitKat
+Ritter Sport,Alpen Gold,Albeni,Snickers,Picnic,Kinder,Cotton Candy
+Ritter Sport,Kinder,Albeni,Snickers,Twix,KitKat
+Ritter Sport,Kinder,Snickers,Picnic,Alpen Gold,Cotton Candy,Twix,KitKat
+Ritter Sport,Kinder,Albeni,Snickers,Twix,KitKat
+Ritter Sport,Snickers,Albeni,Cotton Candy,Twix
+Ritter Sport,Kinder,Snickers,Picnic,Albeni,Twix,KitKat
